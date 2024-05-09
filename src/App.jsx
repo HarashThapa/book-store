@@ -4,7 +4,7 @@ function App () {
   return (
     <>
     
-    <h1>Amozon top selling books</h1>,
+    <h1>Amazon top selling books from Harash Thapa</h1>,
     <BookList/>  
     </>
   );
